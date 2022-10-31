@@ -8,6 +8,8 @@ These tuning guides provide guidance on the BIOS, Operating System and workload/
 
 ## Databases 
 
+[IAA and AVX512-VBMI Acceleration for ClickHouse on 4th Gen Intel® Xeon® processor](Databases/TuningGuideForClickHouse.md)
+
 Cassandra
 
 ## Media
